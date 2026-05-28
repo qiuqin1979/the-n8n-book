@@ -3,7 +3,7 @@
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build) [![Deploy](https://github.com/kurtqiu1979/the-n8n-book/actions/workflows/deploy.yml/badge.svg)](https://github.com/kurtqiu1979/the-n8n-book/actions/workflows/deploy.yml)
 
 > **一份中英双语的 n8n 教材 · A bilingual n8n textbook from zero to mastery**  
-> 🌐 [n8nworker.xyz](https://n8nworker.xyz)
+> 🌐 [n8n.n8nworker.xyz](https://n8n.n8nworker.xyz)
 
 ---
 
